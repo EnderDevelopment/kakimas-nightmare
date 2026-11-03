@@ -1,0 +1,9 @@
+name: KakimaPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+commands:
+  kakima:
+    description: Spawns the Kakima NPC.
+    usage: /kakima
